@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+# Hey if you're seeing this and have no idea what this does, I can only relate to you
+* text = auto

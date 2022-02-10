@@ -1,2 +1,0 @@
-# Eggtimer
- An egg timer.
